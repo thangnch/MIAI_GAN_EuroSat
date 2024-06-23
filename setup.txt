@@ -1,0 +1,7 @@
+torch
+numpy
+noise
+pillow
+matplotlib
+torchvision
+tqdm
