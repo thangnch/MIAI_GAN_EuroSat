@@ -2,7 +2,7 @@
 Demo of recover satlelite image with GAN
 
 Video link:  https://youtu.be/vDAgIokDQ4Q
-Data link: https://miai.vn/thu-vien-mi-ai/ 
+<br>Data link: https://miai.vn/thu-vien-mi-ai/ 
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
